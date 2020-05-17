@@ -52,3 +52,8 @@ print(0)
 #数学运算的优先级
 print(x,y,x+y*3)
 #字符串 同js
+
+#输入函数
+# 如何在交互中变量赋值呢
+x=input("name")
+print(x +" is very handsome")

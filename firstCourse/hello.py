@@ -65,4 +65,5 @@ x=int(input("number"))
 height=float(input("your savings in wechat or 支付宝"))
 print(height)
 print(x,sep=" ",end="\n")
+
 print(x,y,sep="***",end="!")

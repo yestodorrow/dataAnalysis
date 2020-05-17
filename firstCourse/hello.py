@@ -25,3 +25,15 @@ x="this is liu Gang"
 y="he is a handsome boy"
 print(x+","+y)
 
+
+#变量
+#赋值语句
+x,y="liugang","very handsome"
+sentence =x+" "+ y
+print(sentence)
+
+#注意：分隔符只能是英文的半角逗号
+
+
+
+

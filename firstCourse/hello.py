@@ -34,6 +34,21 @@ print(sentence)
 
 #注意：分隔符只能是英文的半角逗号
 
+#数字的类型
+  # 整数 浮点数 布尔型 复数（complex）
+#   5+3j  complex(5,3）
 
+# 判断数据类型
+#  type() isinstance()
+# print(type(5.0),type(1E+3),type())
+#转换数据类型
+# int() 转换成整数
+print(int(3.9))
+# print(int(3.9))
+print(3>2>1)
+#比较运算符
+print(0)
 
-
+#数学运算的优先级
+print(x,y,x+y*3)
+#字符串 同js

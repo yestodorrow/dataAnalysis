@@ -57,3 +57,10 @@ print(x,y,x+y*3)
 # 如何在交互中变量赋值呢
 x=input("name")
 print(x +" is very handsome")
+# 注意 语句返回值为字符串，可以通过类型转换
+x=input("4")
+# print(x/4)
+print(int(4)/4)
+x=int(input("number"))
+height=float(input("your savings in wechat or 支付宝"))
+print(height)

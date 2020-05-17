@@ -1,6 +1,8 @@
 # print("h3llo")
 
-i=0;m="hello";
-while i < len(m):
-    print(m[i])
-    i+=1
+m="reer";
+i=len(m)-1;newStr='';
+while i >= 0:
+    newStr+=m[i]
+    i-=1
+print(newStr)

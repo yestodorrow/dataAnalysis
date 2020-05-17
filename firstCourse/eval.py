@@ -12,3 +12,4 @@ print(newStr.capitalize())
 
 for i in newStr:
     print(i)
+

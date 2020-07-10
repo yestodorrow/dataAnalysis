@@ -1,6 +1,6 @@
 var chokidar = require('chokidar');
 var Path = require("path")
-var watcher = chokidar.watch('../firstCourse', {
+var watcher = chokidar.watch('../exercise', {
   ignored: /[\/\\]\./, persistent: true
 });
 
